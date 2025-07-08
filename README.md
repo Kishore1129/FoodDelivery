@@ -6,7 +6,7 @@ A responsive and visually engaging food delivery website built using **HTML**, *
 
 ## 🌐 Preview
 
-![Homepage Screenshot](img/screenshot.png)
+![Homepage Screenshot](img/interface.png)
 
 ---
 
@@ -33,12 +33,6 @@ Fooddeliverymain/
 ├── contact.html # Contact form
 ├── food-search.html # Search results
 └── README.md # Project documentation
-
-yaml
-Copy
-Edit
-
----
 
 ## ✨ Features
 
