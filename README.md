@@ -6,7 +6,7 @@ A responsive and visually engaging food delivery website built using **HTML**, *
 
 ## 🌐 Preview
 
-![Homepage Screenshot](img/Screenshot.png)
+![Homepage Screenshot](Fooddeliverymain/img/Screenshot.png)
 
 ---
 
